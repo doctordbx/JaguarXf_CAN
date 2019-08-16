@@ -108,7 +108,7 @@ this runs the script on startup, ensure you add the & sign at the end, otherwise
 
 Once this is done test it, if you are happy with it and the pi shuts down once you unplug your phone, then take an image of your sd card using your pc. this means if your sd card gets corrupted you can just reload the image back on in 5 minutes.
 
-##conclusion
+## Last points
 
 For now thats all there is too it, but in the coming weeks I will be starting to look into the canbus, and then we can get some pretty cool stuff added, steering wheel controls, park aid, car parameters etc etc.
 
