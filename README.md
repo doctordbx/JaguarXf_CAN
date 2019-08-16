@@ -1,4 +1,4 @@
-# Jaguar XF Canbus Decoding/linux integration
+# Freelander 2 android auto guide
 
 This project is a guide on how to install android auto (open auto pro) into a freelander 2, currently it is very basic with no real integration to the car, the plan is to go the same route I am going with my jaguar XF and integrate it to the CAN bus controls, open auto pro allows linking of other apps, so some plans for this will include visual representation of parking sensors, similar to what the jag has, and perhaps some obd information into a dashboard display.
 
